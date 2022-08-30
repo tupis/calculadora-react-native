@@ -45,7 +45,7 @@ $ npm run start
 ### 2 Inicialize a partir do seu emulador:
 
 1. Abra seu emulador
-2. Caso for ***Android***, digite no terminal: 
+2. Caso for **Android**, digite no terminal: 
 ```
 $ npm run android
 ```
