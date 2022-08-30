@@ -2,6 +2,9 @@
 
 Primeiro aplicativo feito em React Native para absorção de conteúdo.
 
+  <img src="https://user-images.githubusercontent.com/95971013/187546365-a662183a-bb06-424a-9b8e-4eaf0ee47780.gif" width="200px">
+  <img src="https://user-images.githubusercontent.com/95971013/187546739-c010ec70-3d6a-4c88-837a-e1b1dcabf6be.gif" width="200px">
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
